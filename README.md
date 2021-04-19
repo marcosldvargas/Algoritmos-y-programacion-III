@@ -1,5 +1,5 @@
 # Algoritmos y programación III
-Cátedra Suárez. Lenguaje Smalltalk y Java. Conceptos generales de POO y aplicación.
+Cátedra Suárez. Lenguajes Smalltalk y Java. Conceptos generales de POO y aplicación.
 
 ### Trabajos prácticos
 * TP1 : simulador de pedidos (gastronomía).
